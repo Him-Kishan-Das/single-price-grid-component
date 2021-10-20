@@ -38,6 +38,11 @@ Neutral Colors
 - Flexbox
 - CSS Grid
 
+## Solutions
+
+- Solution URL: (https://github.com/Him-Kishan-Das/single-price-grid-component)
+- Live Site URL: (https://him-kishan-das.github.io/single-price-grid-component/)
+
   
 ## Author
 
